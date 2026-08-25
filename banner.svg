@@ -1,1 +1,118 @@
+<svg
+    width="900"
+    height="250"
+    viewBox="0 0 900 250"
+    xmlns="http://www.w3.org/2000/svg"
+>
 
+    <rect width="900" height="250" fill="#0d1117"/>
+
+    <!-- Ondas no fundo -->
+    <path
+        d="M0 190
+           C100 140 200 240 300 190
+           S500 140 600 190
+           S800 240 900 190"
+        fill="none"
+        stroke="#9b6cff"
+        stroke-width="2"
+        opacity="0.5"
+    >
+        <animate
+            attributeName="d"
+            dur="4s"
+            repeatCount="indefinite"
+            values="
+            M0 190 C100 140 200 240 300 190 S500 140 600 190 S800 240 900 190;
+            M0 190 C100 240 200 140 300 190 S500 240 600 190 S800 140 900 190;
+            M0 190 C100 140 200 240 300 190 S500 140 600 190 S800 240 900 190
+            "
+        />
+    </path>
+
+    <!-- Segunda onda -->
+    <path
+        d="M0 210
+           C100 160 200 260 300 210
+           S500 160 600 210
+           S800 260 900 210"
+        fill="none"
+        stroke="#ff5c7c"
+        stroke-width="2"
+        opacity="0.4"
+    >
+        <animate
+            attributeName="d"
+            dur="5s"
+            repeatCount="indefinite"
+            values="
+            M0 210 C100 160 200 260 300 210 S500 160 600 210 S800 260 900 210;
+            M0 210 C100 260 200 160 300 210 S500 260 600 210 S800 160 900 210;
+            M0 210 C100 160 200 260 300 210 S500 160 600 210 S800 260 900 210
+            "
+        />
+    </path>
+
+    <!-- Título -->
+    <text
+        x="450"
+        y="105"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="46"
+        font-weight="bold"
+        fill="#ffffff"
+        outline="1px #000000"
+    >
+        Falaê, sou o
+
+        <animate
+            attributeName="y"
+            values="105;100;105;110;105"
+            dur="3s"
+            repeatCount="indefinite"
+        />
+    </text>
+
+    <!-- Ventura -->
+    <text
+        x="450"
+        y="155"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="52"
+        font-weight="bold"
+        fill="#411f8b"
+        outline="1px #000000"
+    >
+        Ventura
+
+        <animate
+            attributeName="y"
+            values="155;145;155;165;155"
+            dur="3s"
+            repeatCount="indefinite"
+        />
+    </text>
+
+    <!-- Subtítulo -->
+    <text
+        x="450"
+        y="195"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="19"
+        fill="#fdfdfd"
+        outline="1px #000000"
+    >
+        Desenvolvedor Fullstack
+
+        <animate
+            attributeName="y"
+            values="195;190;195;200;195"
+            dur="3s"
+            repeatCount="indefinite"
+        />
+    </text>
+
+</svg>
