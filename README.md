@@ -68,7 +68,7 @@ filosofia: >
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css&theme=dark" />
 
 <br/><br/>
 
