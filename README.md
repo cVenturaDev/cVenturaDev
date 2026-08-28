@@ -195,5 +195,5 @@ guest@dev-core:~$ _
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<sub>© 2026 Seu Nome — Construído com 🖤 e muito café. Todos os sistemas operacionais.</sub>
+<sub>© 2026 Ventura — Construído com 🖤 e muito café. Todos os sistemas operacionais.</sub>
 </div>
