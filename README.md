@@ -90,10 +90,10 @@ filosofia: >
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=000&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=000&labelColor=0D1117)
-![Figma](https://img.shields.io/badge/Figma-FF00E6?style=for-the-badge&logo=figma&logoColor=000&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-ADD8E6?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-FFAC1C?style=for-the-badge&logo=git&logoColor=000&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/Figma-BF00FF?style=for-the-badge&logo=figma&logoColor=000&labelColor=0D1117)
 
 </div>
 
