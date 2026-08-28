@@ -156,14 +156,6 @@ guest@dev-core:~$ _
 
 <br/>
 
-## 🏆 &nbsp;`TROFÉUS.system`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cVenturaDev&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
 <br/>
 
 ## 🐍 &nbsp;`CONTRIBUTION_ENGINE.exe`
@@ -175,8 +167,6 @@ guest@dev-core:~$ _
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake.svg" />
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-<sub> Essa animação exige um GitHub Action configurado no seu repositório <code>cVenturaDev/cVenturaDev</code>. Veja o arquivo <code>snake.yml</code> incluído junto a este README.</sub>
 
 </div>
 
