@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=8000&width=435&lines=%3E+INICIALINZANDO+SISTEMA+...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR+...;%3E+ACESSO+CONCENDIDO.+BEM+VINDO%2C+VISITANTE." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=8000&width=435&lines=%3E+INICIALIZANDO+SISTEMA+...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR+...;%3E+ACESSO+CONCENDIDO.+BEM+VINDO%2C+VISITANTE." alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/otavio-estevam-2835473a4/)
