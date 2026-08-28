@@ -7,7 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR...;%3E+ACESSO+CONCEDIDO.+BEM-VINDO%2C+VISITANTE;%3E+STATUS%3A+ONLINE+%F0%9F%9F%A2" alt="Typing SVG" />
 
-<br>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/otavio-estevam-2835473a4/)
