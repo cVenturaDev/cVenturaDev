@@ -1,13 +1,3 @@
-<!--
-  ══════════════════════════════════════════════════════════════
-  ANTES DE USAR — substitua estes placeholders em TODO o arquivo:
-  SEU_USUARIO      -> seu usuário do GitHub (ex: joaosilva)
-  Seu Nome         -> seu nome de exibição
-  seu@email.com    -> seu e-mail
-  seu-usuario      -> seu usuário nas redes (LinkedIn, X/Twitter, Instagram)
-  REPO-1..REPO-4   -> nomes reais dos seus repositórios em destaque
-  ══════════════════════════════════════════════════════════════
--->
 
 <div align="center">
 
@@ -116,19 +106,16 @@ filosofia: >
 <div align="center">
 
 <a href="https://github.com/cVenturaDev/Exercicios-para-Praticar-logica-Python-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Exercicios-para-Praticar-logica-Python-&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FExercicios-para-Praticar-logica-Python-&theme=dark" />
 </a>
 <a href="https://github.com/cVenturaDev/Calculadora-Simples-em-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Calculadora-Simples-em-Python&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FRock-Paper-Scissors&theme=dark" />
 </a>
 
 <br/>
 
-<a href="https://github.com/cVenturaDev/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=REPO-3&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
-</a>
 <a href="https://github.com/cVenturaDev/Rock-Paper-Scissors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Rock-Paper-Scissors&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FRock-Paper-Scissors&theme=dark" />
 </a>
 
 </div>
@@ -162,16 +149,8 @@ guest@dev-core:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cVenturaDev&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cVenturaDev&layout=compact&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=cVenturaDev&theme=dark&background=0D1117&border=00F0FF&ring=00F0FF&fire=FF00E6&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cVenturaDev&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF00E6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=cVenturaDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=cVenturaDev&langs_count=4&theme=dark"/>
 
 </div>
 
@@ -197,7 +176,7 @@ guest@dev-core:~$ _
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ Essa animação exige um GitHub Action configurado no seu repositório <code>cVenturaDev/cVenturaDev</code>. Veja o arquivo <code>snake.yml</code> incluído junto a este README.</sub>
+<sub> Essa animação exige um GitHub Action configurado no seu repositório <code>cVenturaDev/cVenturaDev</code>. Veja o arquivo <code>snake.yml</code> incluído junto a este README.</sub>
 
 </div>
 
