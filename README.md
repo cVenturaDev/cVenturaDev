@@ -117,7 +117,7 @@ filosofia: >
 <a href="https://github.com/cVenturaDev/Rock-Paper-Scissors">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FRock-Paper-Scissors&theme=dark" />
 </a>
-<a href="[https://github.com/cVenturaDev/Rock-Paper-Scissors](https://github.com/cVenturaDev/Monitor-TJSP)">
+<a href="https://github.com/cVenturaDev/Monitor-TJSP">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FMonitor-TJSP&theme=dark" />
 
 </div>
