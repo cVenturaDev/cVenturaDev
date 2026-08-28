@@ -1,118 +1,230 @@
+<!--
+  ══════════════════════════════════════════════════════════════
+  ANTES DE USAR — substitua estes placeholders em TODO o arquivo:
+  SEU_USUARIO      -> seu usuário do GitHub (ex: joaosilva)
+  Seu Nome         -> seu nome de exibição
+  seu@email.com    -> seu e-mail
+  seu-usuario      -> seu usuário nas redes (LinkedIn, X/Twitter, Instagram)
+  REPO-1..REPO-4   -> nomes reais dos seus repositórios em destaque
+  ══════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-<img src="banner.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ventura&fontSize=58&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR...;%3E+ACESSO+CONCEDIDO.+BEM-VINDO%2C+VISITANTE;%3E+STATUS%3A+ONLINE+%F0%9F%9F%A2" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/otavio-estevam-2835473a4/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_vntura.szn/)
+[![Email](https://img.shields.io/badge/EMAIL-FF00E6?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:otavioboomb.gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=TRANSMISSÕES+RECEBIDAS&color=00f0ff&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
 
 </div>
 
-### Sobre Mim
-
-Me chamo Otávio, mas sou conhecido como Ventura. Sou um aspirante a desenvolvedor e apaixonado por tecnologia em geral. Tenho grande interesse por hardware e automação de tarefas, o que me levou a escolher Python como minha principal linguagem de programação. No futuro, pretendo me aprofundar em outras linguagens e continuar ampliando meus conhecimentos na área de desenvolvimento.
-
-Além da programação, tenho como hobby a criação de vídeos para o YouTube, onde compartilho conteúdos no meu canal [Ventura](https://www.youtube.com/@VenturaGameplays69). A criação de conteúdo é uma forma de explorar minha criatividade, aprender coisas novas e compartilhar meus interesses com outras pessoas.
-
-
-<p align="left">
-    <a href="https://github.com/cVenturaDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cVenturaDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/cVenturaDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cVenturaDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 
-
-
-
-
-### Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=3&width=100%" width="100%"/>
 
 <br/>
+
+##  &nbsp;`SOBRE_MIM.exe`
+
+<table width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=180&width=100%&section=header&text=%F0%9F%A4%96&fontSize=70"/>
+
+</td>
+<td width="65%">
+
+```yaml
+identidade:
+  nome: "Otavio"
+  cargo: "Full-Stack Developer"
+  localizacao: " Brasil"
+  idiomas: ["Português 🇧🇷", "Inglês 🇺🇸"]
+
+status:
+  modo_atual: "Disponível para novos projetos"
+  foco: "Construindo sistemas inteligentes e escaláveis"
+  aprendendo: ["Python", "Frontend no geral", "SQL"]
+
+filosofia: >
+  "Código limpo é o silêncio antes da execução perfeita."
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=2&width=100%" width="100%"/>
+
 <br/>
 
-###  Estatísticas
+##  &nbsp;`TECH_STACK.sys`
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=cVenturaDev&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=cVenturaDev&langs_count=4&theme=dark&locale=pt-br" 
-  />
+**Linguagens**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" />
 
-</p>
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+
+<br/><br/>
+
+**Backend & Dados**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" />
+
+<br/><br/>
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+##  &nbsp;`FERRAMENTAS.dll`
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=000&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=000&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/Figma-FF00E6?style=for-the-badge&logo=figma&logoColor=000&labelColor=0D1117)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=2&width=100%" width="100%"/>
+
+<br/>
+
+##  &nbsp;`PROJETOS_EM_DESTAQUE.bin`
+
+<div align="center">
+
+<a href="https://github.com/cVenturaDev/Exercicios-para-Praticar-logica-Python-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Exercicios-para-Praticar-logica-Python-&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+</a>
+<a href="https://github.com/cVenturaDev/Calculadora-Simples-em-Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Calculadora-Simples-em-Python&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+</a>
+
+<br/>
+
+<a href="https://github.com/cVenturaDev/REPO-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=REPO-3&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+</a>
+<a href="https://github.com/cVenturaDev/Rock-Paper-Scissors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cVenturaDev&repo=Rock-Paper-Scissors&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF" />
+</a>
+
+</div>
+
+<br/>
+
+##  &nbsp;`OBJETIVOS_ATUAIS.log`
+
+```bash
+guest@dev-core:~$ whoami
+> Ventura — Full-Stack Developer
+
+guest@dev-core:~$ cat objetivos_2026.txt
+[x] Aprofundar meu conhecimento em python
+[x] Criar um Projeto relevante
+[ ] Contribuir com projetos open-source de IA
+[ ] Estudar Rust para sistemas de alta performance
+[ ] Publicar artigos técnicos sobre Cloud & DevOps
+
+guest@dev-core:~$ echo $STATUS
+"Sempre aprendendo. Sempre evoluindo."
+
+guest@dev-core:~$ _
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## &nbsp;`ANALYTICS.core`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cVenturaDev&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E6&text_color=C9D1D9&border_color=00F0FF&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cVenturaDev&layout=compact&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=cVenturaDev&theme=dark&background=0D1117&border=00F0FF&ring=00F0FF&fire=FF00E6&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cVenturaDev&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF00E6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 &nbsp;`TROFÉUS.system`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cVenturaDev&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br/>
+
+## 🐍 &nbsp;`CONTRIBUTION_ENGINE.exe`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/cVenturaDev/cVenturaDev/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>⚠️ Essa animação exige um GitHub Action configurado no seu repositório <code>cVenturaDev/cVenturaDev</code>. Veja o arquivo <code>snake.yml</code> incluído junto a este README.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## 📡 &nbsp;`REDES_DE_COMUNICAÇÃO.link`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/otavio-estevam-2835473a4)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_vntura.szn)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:otavioboomb@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22A+melhor+forma+de+prever+o+futuro+%C3%A9+cri%C3%A1-lo.%22" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<sub>© 2026 Seu Nome — Construído com 🖤 e muito café. Todos os sistemas operacionais.</sub>
+</div>
