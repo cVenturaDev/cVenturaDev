@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_vntura.szn/)
 [![Email](https://img.shields.io/badge/EMAIL-FF00E6?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:otavioboomb.gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=FFFFFF&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=000000&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
 
 </div>
 
