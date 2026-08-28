@@ -109,7 +109,7 @@ filosofia: >
   <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FExercicios-para-Praticar-logica-Python-&theme=dark" />
 </a>
 <a href="https://github.com/cVenturaDev/Calculadora-Simples-em-Python">
-  <img src="[https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FRock-Paper-Scissors&theme=dark](https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FCalculadora-Simples-em-Python&theme=dark)" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FCalculadora-Simples-em-Python&theme=dark" />
 </a>
 
 <br/>
