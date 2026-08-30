@@ -120,6 +120,12 @@ filosofia: >
 <a href="https://github.com/cVenturaDev/Monitor-TJSP">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=cVenturaDev&repo=cVenturaDev%2FMonitor-TJSP&theme=dark" />
 
+<div align="center">
+
+[![Ver todos os repositórios](https://img.shields.io/badge/VER_TODOS_OS_REPOSITORIOS_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cVenturaDev?tab=repositories)
+
+<div>
+
 </div>
 
 <br/>
