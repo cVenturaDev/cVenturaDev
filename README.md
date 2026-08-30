@@ -182,6 +182,7 @@ guest@dev-core:~$ _
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/otavio-estevam-2835473a4)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_vntura.szn)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:otavioboomb@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord)](https://discord.com/users/._.oppai._)
 
 </div>
 
