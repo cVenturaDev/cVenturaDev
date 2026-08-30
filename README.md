@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/otavio-estevam-2835473a4/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_vntura.szn/)
 [![Email](https://img.shields.io/badge/EMAIL-FF00E6?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:otavioboomb.gmail.com)
+![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)(https://discord.com/users/._.oppai._)
 
 <img src="https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=000000&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
 
