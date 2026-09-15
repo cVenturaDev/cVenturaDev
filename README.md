@@ -157,8 +157,8 @@ guest@dev-core:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=cVenturaDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=cVenturaDev&langs_count=4&theme=dark"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=cVenturaDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=cVenturaDev&langs_count=4&theme=dark_github"/>
 
 </div>
 
