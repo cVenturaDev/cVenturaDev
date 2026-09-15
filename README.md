@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:otavioboomb.gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/._.oppai._)
 
-<img src="https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=000000&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
+<img src="![](https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=blueviolet"/>
 
 </div>
 
