@@ -204,8 +204,6 @@ guest@dev-core:~$ _
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22A+melhor+forma+de+prever+o+futuro+%C3%A9+cri%C3%A1-lo.%22" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
