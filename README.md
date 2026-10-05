@@ -1,7 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ventura&fontSize=58&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<pre>
+██╗   ██╗███████╗███╗   ██╗████████╗██╗   ██╗██████╗  █████╗
+██║   ██║██╔════╝████╗  ██║╚══██╔══╝██║   ██║██╔══██╗██╔══██╗
+██║   ██║█████╗  ██╔██╗ ██║   ██║   ██║   ██║██████╔╝███████║
+╚██╗ ██╔╝██╔══╝  ██║╚██╗██║   ██║   ██║   ██║██╔══██╗██╔══██║
+ ╚████╔╝ ███████╗██║ ╚████║   ██║   ╚██████╔╝██║  ██║██║  ██║
+  ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
 
 <br/>
 
