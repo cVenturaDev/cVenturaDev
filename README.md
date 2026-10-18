@@ -20,8 +20,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0D1117)](mailto:otavioboomb.gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/._.oppai._)
 
-<img src="https://komarev.com/ghpvc/?username=cVenturaDev&label=TRANSMISSÕES+RECEBIDAS&color=blueviolet&style=flat-square"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=3&width=100%" width="100%"/>
