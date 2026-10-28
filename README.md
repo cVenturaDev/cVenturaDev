@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./ventura.png" alt="Foto do Ventura" width="3000">
+  <img src="./ventura.png" alt="Foto do Ventura" width="2000">
 </p>
 
 <br/>
